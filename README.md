@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Nived11
+- 👋 Hi, I’m Nived 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning mern stack
